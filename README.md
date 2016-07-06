@@ -1,6 +1,6 @@
 # React Rating Stars
 React component to rate through stars
-
+> Facebook React Component
 
 ## Add it to your project
 

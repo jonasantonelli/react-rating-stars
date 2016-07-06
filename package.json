@@ -1,73 +1,22 @@
 {
-  "_from": "react-rating-stars@>=1.0.0 <2.0.0",
-  "_id": "react-rating-stars@1.0.5",
-  "_inCache": true,
-  "_installable": true,
-  "_location": "/react-rating-stars",
-  "_nodeVersion": "0.12.5",
-  "_npmOperationalInternal": {
-    "host": "packages-12-west.internal.npmjs.com",
-    "tmp": "tmp/react-rating-stars-1.0.5.tgz_1462289933767_0.16541266534477472"
-  },
-  "_npmUser": {
-    "email": "jonas.antonelli@gmail.com",
-    "name": "jonasantonelli"
-  },
-  "_npmVersion": "2.11.2",
-  "_phantomChildren": {},
-  "_requested": {
-    "name": "react-rating-stars",
-    "raw": "react-rating-stars@^1.0.0",
-    "rawSpec": "^1.0.0",
-    "scope": null,
-    "spec": ">=1.0.0 <2.0.0",
-    "type": "range"
-  },
-  "_requiredBy": [
-    "#DEV:/"
-  ],
-  "_shasum": "4262108427360f0fe52e1b41fa12c2596e38c550",
-  "_shrinkwrap": null,
-  "_spec": "react-rating-stars@^1.0.0",
-  "author": {
-    "email": "jonasantonelli@gmail.com",
-    "name": "Jonad Antonelli"
-  },
-  "bugs": {
-    "url": "https://github.com/jonasantonelli/react-rating-stars/issues"
-  },
-  "dependencies": {},
-  "description": "React component to rate through stars",
-  "devDependencies": {
-    "jquery": "latest",
-    "jsdom": "7.2.2",
-    "jsdom-global": "1.7.0"
-  },
-  "directories": {},
-  "gitHead": "5c771197b678f7f351d0f7c154726e4deb018080",
-  "homepage": "https://github.com/jonasantonelli/react-rating-stars#readme",
-  "keywords": [
-    "react",
-    "component",
-    "rating",
-    "stars",
-    "react component"
-  ],
-  "license": "MIT",
-  "main": "react-rating-stars.js",
-  "maintainers": [
-    {
-      "name": "jonasantonelli",
-      "email": "jonas.antonelli@gmail.com"
-    }
-  ],
   "name": "react-rating-stars",
-  "optionalDependencies": {},
-  "readme": "ERROR: No README data found!",
+  "version": "1.0.2",
+  "main": "index.js",
+  "keywords": [
+      "react",
+      "react component",
+      "rating stars"
+  ],
+  "author": "jonasantonelli",
+  "license": "ISC",
+  "dependencies": {
+      "react": "latest",
+      "autobind-decorator": "latest",
+      "classNames": "latest"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jonasantonelli/react-rating-stars.git"
+    "url": "https://github.com/jonasantonelli/react-rating-stars.git"
   },
-  "scripts": {},
-  "version": "1.0.5"
+  "homepage": "https://github.com/jonasantonelli/react-rating-stars"
 }

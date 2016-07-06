@@ -3,4 +3,4 @@
 
 - Initial release.
 
-[v1.0.0]: https://github.com/jonasantonelli/react-rating-stars/tree/1.0.0
+[v1.0.0]: https://github.com/jonasantonelli/react-rating-stars/tree/1.0.1
